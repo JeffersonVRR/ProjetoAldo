@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="navegador">Navegador</string>
+    <string name="meMostraMapa">Mapa</string>
+    <string name="agendaTelefonica">Agenda Telefonica</string>
+</resources>
